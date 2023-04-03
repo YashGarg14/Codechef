@@ -7,7 +7,7 @@ int main() {
 	while (t--)
 	{
 	    int x,y;
-	    cin >> x >> y;
+	    cin >> x >> y;;
 	    if(x>y)
 	        cout << "YES" << endl;
 	    else
